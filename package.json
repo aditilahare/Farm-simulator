@@ -37,6 +37,7 @@
     "axios": "^0.18.0",
     "express": "latest",
     "extract-text-webpack-plugin": "^2.1.2",
-    "webpack": "^3.0.0"
+    "webpack": "^3.0.0",
+    "html-webpack-plugin": "latest"
   }
 }
